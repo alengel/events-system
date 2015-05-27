@@ -6,4 +6,4 @@ To run the project, just type __node events.js__ in the terminal.
 
 To run the tests, install mocha and type __mocha eventsSpec.js__ in the terminal.
 
-![Passing tests][assets/tests_passing.png]
+![Passing tests](https://github.com/alengel/events-system/blob/master/assets/tests_passing.png)
